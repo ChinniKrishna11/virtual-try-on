@@ -18,7 +18,8 @@ The project primarily focuses on a 2D virtual try-on approach and extends it wit
 ---
 
 ##  Tech Stack
-- Python
+- type script
+- python
 - OpenCV
 - MediaPipe
 - NumPy
