@@ -1,6 +1,6 @@
-# 👗 AI-Based Virtual Try-On System (2D with Hybrid 3D Visualization)
+#  AI-Based Virtual Try-On System (2D with Hybrid 3D Visualization)
 
-## 📌 Project Description
+##  Project Description
 This project presents an AI-based virtual try-on system that allows users to visualize how clothing would look on them without physically wearing it. The system uses computer vision techniques to detect body pose and align garments onto the user’s image.
 
 The project primarily focuses on a 2D virtual try-on approach and extends it with a hybrid 3D visualization module, which generates multiple views (front, side, and back) to simulate a 3D experience.
@@ -40,8 +40,6 @@ The project primarily focuses on a 2D virtual try-on approach and extends it wit
 
 ##  How to Run
 ```bash
-# Install dependencies
 pip install opencv-python mediapipe numpy pillow matplotlib
 
-# Run the project
 python main.py
