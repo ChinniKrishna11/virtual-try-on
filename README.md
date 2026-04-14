@@ -1,6 +1,6 @@
-###### AI-Based Virtual Try-On System (2D with Hybrid 3D Visualization)
+# AI-Based Virtual Try-On System (2D with Hybrid 3D Visualization)
 
-**Project Overview
+### Project Overview
 
 This project presents an AI-powered Virtual Try-On System that allows users to visualize how garments fit on their body using a combination of 2D image processing and 3D hybrid modeling.
 
@@ -15,16 +15,16 @@ The system integrates computer vision, deep learning, and 3D rendering technique
  Real-time rendering using WebGL (Three.js)
  Hybrid pipeline (2D warping + 3D modeling)
  Scalable backend using FastAPI
+  
+ ## Tech Stack
  
- ### Tech Stack
- 
-# Frontend
+### Frontend
 React.js (18.2)
 Tailwind CSS (3.3)
 Redux Toolkit
 Three.js (3D rendering)
 
-# Backend
+### Backend
 Python 3.11
 FastAPI
 REST APIs (JSON over HTTP)
@@ -75,21 +75,21 @@ Clone the Repository
 git clone https://github.com/your-username/virtual-tryon.git
 cd virtual-tryon
 
- # Backend Setup
+ ### Backend Setup
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-#  Frontend Setup
+### Frontend Setup
 cd frontend
 npm install
 npm run dev
 
-# Output Example
+### Output Example
 Upload user image
 Select garment
 Get realistic try-on output (2D + 3D hybrid
 
-#  Future Improvements
+###  Future Improvements
 Mobile app integration
 AR-based virtual fitting
 Improved cloth physics simulation
