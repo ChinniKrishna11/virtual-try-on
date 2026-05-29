@@ -1,5 +1,7 @@
 # AI-Based Virtual Try-On System (2D with Hybrid 3D Visualization)
 
+![Views](https://komarev.com/ghpvc/?username=yapamanuchinnikrishna&repo=virtual-try-on&color=blue)
+
 ### Project Overview
 
 This project presents an AI-powered Virtual Try-On System that allows users to visualize how garments fit on their body using a combination of 2D image processing and 3D hybrid modeling.
@@ -15,9 +17,9 @@ The system integrates computer vision, deep learning, and 3D rendering technique
  Real-time rendering using WebGL (Three.js)
  Hybrid pipeline (2D warping + 3D modeling)
  Scalable backend using FastAPI
+   
+  ## Tech Stack
   
- ## Tech Stack
- 
 ### Frontend
 React.js (18.2)
 Tailwind CSS (3.3)
@@ -70,7 +72,7 @@ AI Models (PyTorch, OpenPose, SMPL)
 Database (PostgreSQL)
 
  ### Installation & Setup
- 
+  
 Clone the Repository
 git clone https://github.com/your-username/virtual-tryon.git
 cd virtual-tryon
@@ -102,5 +104,3 @@ Sathyabama University
 ### Conclusion
 
 This project demonstrates how AI + 3D hybridization can revolutionize online shopping by providing realistic virtual fitting experiences, reducing return rates and improving user satisfaction.
-
-
